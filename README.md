@@ -1,6 +1,9 @@
 Apache Thrift
 =============
 
+Hello from PT.
+Second change from PT
+
 Last Modified: 2014-03-16
 
 License
